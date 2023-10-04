@@ -1,0 +1,6 @@
+com/crystalneko/ctrpg/CtRPG.class
+com/crystalneko/ctrpg/status/pluginEnable.class
+com/crystalneko/ctrpg/event/playerJoin$1.class
+com/crystalneko/ctrpg/command/job.class
+com/crystalneko/ctrpg/event/playerJoin.class
+com/crystalneko/ctrpg/command/jobAdmin.class
